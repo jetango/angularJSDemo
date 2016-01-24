@@ -7,7 +7,7 @@ module.exports = {
     'vendor': './src/vendor.ts'
   },
   output: {
-    path: path.resolve(__dirname, './dist'),
+    path: path.resolve(__dirname, './src/dist'),
     filename: "bundle.js"
   },
   plugins: [
