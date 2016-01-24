@@ -17,7 +17,7 @@ import {About} from './components/about/about';
 	new Route({ path: '/about', component: About, name: 'About'})
 ])
 
-export class SeedApp {
+export class KirApp {
 	constructor() {
 
 	}
